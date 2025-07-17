@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/seyrup1987-reconrizzler-alpha-badge.png)](https://mseep.ai/app/seyrup1987-reconrizzler-alpha)
+
 # Vishu - Model Context Protocol (MCP) Suite 🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- Replace with your actual license -->
